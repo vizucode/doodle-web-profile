@@ -22,7 +22,7 @@ export default function about({ profile }) {
                     <Paragraph className='mt-8'>
                         Sometimes, I like writing on 
                         <Link href="https://medium.com/@vizucode">
-                            <span className="ml-2 text-blue-500 underline">
+                            <span className="ml-2 text-blue-500 underline curso-pointer">
                                 Medium
                             </span>
                         </Link>
