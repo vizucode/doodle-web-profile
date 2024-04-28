@@ -20,10 +20,11 @@ export default function about({ profile }) {
                         {profile.description}
                     </Paragraph>
                     <Paragraph className='mt-8'>
-                        Sometimes, I like writing on Medium, sharing my knowledge.
-                        <Link href="https://medium.com/@vizucode" className="ml-2 text-blue-500 underline">
+                        Sometimes, I like writing on 
+                        <Link href="https://medium.com/@vizucode" className="text-blue-500 underline">
                             Medium
                         </Link>
+                        , to share my knowledge.
                     </Paragraph>
                 </div>
                 <h1 className="text-center font-bold text-xl mt-20" data-aos="fade-up">Comming Soon...</h1>
