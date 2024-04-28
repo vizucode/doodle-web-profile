@@ -21,8 +21,10 @@ export default function about({ profile }) {
                     </Paragraph>
                     <Paragraph className='mt-8'>
                         Sometimes, I like writing on 
-                        <Link href="https://medium.com/@vizucode" className="text-blue-500 underline">
-                            Medium
+                        <Link href="https://medium.com/@vizucode">
+                            <span className="ml-2 text-blue-500 underline">
+                                Medium
+                            </span>
                         </Link>
                         , to share my knowledge.
                     </Paragraph>
