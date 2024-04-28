@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
 import Paragraph from '../components/text/Paragraph'
+import Link from 'next/link'
 import Title from '../components/text/Title'
 import MetaSeo from '../components/MetaSeo'
 
